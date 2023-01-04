@@ -1,0 +1,15 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># ![Логотип NeuroStartUp](img/NeuroStartUpIcon.png) NeuroStartUp\n\n**Искусственный интеллект, решающий ваши бизнес-задачи.** Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!\n\nСкоро запуск! Следите за обновлениями.\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision ad4ce11c460f54611bb231a20bff37457a46182b)
++++ b/README.md	(date 1672837386471)
+@@ -3,3 +3,4 @@
+ **Искусственный интеллект, решающий ваши бизнес-задачи.** Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!
+ 
+ Скоро запуск! Следите за обновлениями.
++
